@@ -1,0 +1,27 @@
+{
+  "name": "wikistack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon /Users/tyler.zoidis/Desktop/Fullstack Academy/Junior Phase/Workshops/Day 10/wikistack/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pzoidis14/wikistack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pzoidis14/wikistack/issues"
+  },
+  "homepage": "https://github.com/pzoidis14/wikistack#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
